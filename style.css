@@ -1,0 +1,18 @@
+.st-title {
+    color: #4CAF50; /* Example green color */
+}
+
+.st-sidebar {
+    background-color: #f0f8ff; /* Example light blue sidebar */
+}
+
+.st-button {
+    background-color: #008CBA !important; /* Example blue button */
+    color: white !important;
+}
+
+.st-button:hover {
+    background-color: #005f6b !important;
+}
+
+/* Add more custom styles as needed */
